@@ -1,0 +1,3 @@
+[submodule "scripting/include/visual"]
+	path = scripting/include/visual
+	url = https://github.com/speedrun-16/visual
